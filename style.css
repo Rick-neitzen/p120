@@ -1,0 +1,37 @@
+body {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+.header_head {
+    background-color: rgb(210, 143, 255);
+    color: rgb(188, 120, 233);
+}
+
+.header_head img {
+    width: 100px;
+}
+.main_div {
+    background-color: #b700ff;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px groove;
+}
+.main_div label{
+    background-color:#c83cff;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+}
+#camera, #result{
+    border: 2px dotted whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px cyan;
+}
