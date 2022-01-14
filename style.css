@@ -1,0 +1,58 @@
+body {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+.header_head {
+    background-color: rgb(210, 143, 255);
+    color: rgb(188, 120, 233);
+}
+
+.header_head img {
+    width: 100px;
+}
+.main_div {
+    background-color: #b700ff;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px groove;
+}
+.main_div label{
+    background-color:#c83cff;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+}
+
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px cyan;
+}
+
+.Final_Results{
+    color: red;
+    border-radius: 25px;
+    background-color: darkmagenta;
+}
+
+.test_image_1 {
+    background-color: slateblue;
+    border-radius:25px;
+}
+
+.test_image_2 {
+    background-color: slateblue;
+    border-radius:25px;
+}
+
+.test_image_3 {
+    background-color: slateblue;
+    border-radius:25px;
+}
+
+.test_image_4 {
+    background-color: slateblue;
+    border-radius:25px;
+}
